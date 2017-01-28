@@ -1,0 +1,2 @@
+# Symptom
+Medical data
